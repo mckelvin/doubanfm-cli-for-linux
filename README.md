@@ -1,13 +1,15 @@
 # Douban FM GUI
 
-啊……我还没想好这个APP叫什么好，暂时简称为GUI
-本[分支](https://github.com/mckelvin/doubanfm-cli-for-linux/tree/gui)正在努力开发中……目前处于**能用**状态。
+**注意**
+本分支[(gui分支)](https://github.com/mckelvin/doubanfm-for-linux/tree/gui)已被合并到[master分支](https://github.com/mckelvin/doubanfm-for-linux/tree/master)
+
+* * *
 
 ## 演示
 
 界面高仿Web版Douban FM
 
-![preview](https://github.com/mckelvin/doubanfm-cli-for-linux/raw/gui/misc/preview.png)
+![preview](https://github.com/mckelvin/doubanfm-for-linux/raw/gui/misc/preview.png)
 
 
 ## 依赖
@@ -57,6 +59,6 @@ Example:
 登录之后tray icon上右键你会发现你的id，否则会提示未登录。
 
 
-![登录后是这样的](https://github.com/mckelvin/doubanfm-cli-for-linux/raw/gui/misc/login.png)
+![登录后是这样的](https://github.com/mckelvin/doubanfm-for-linux/raw/gui/misc/login.png)
 
 
